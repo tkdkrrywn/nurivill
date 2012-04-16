@@ -1,0 +1,27 @@
+{
+    "id": "ExtBox1-ext-gen4674",
+    "type": "application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "models": [
+            "Main"
+        ],
+        "stores": [
+            "MyStore"
+        ],
+        "views": [
+            "Main",
+            "MyPanel"
+        ],
+        "designer|launch": "",
+        "name": "NuriVill"
+    },
+    "customConfigs": [],
+    "designerId": "application",
+    "$viewOrder": 0,
+    "expanded": true
+}

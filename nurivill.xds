@@ -1,0 +1,71 @@
+{
+    "name": "nurivill",
+    "settings": {
+        "urlPrefix": "",
+        "directAPI": "",
+        "spacesToIndent": 4,
+        "codeGenFormat": "Class",
+        "exportPath": "",
+        "extPath": "http://extjs.cachefly.net/touch/sencha-touch-2.0.0/",
+        "senchaIoKey": "",
+        "senchaIoPath": "http://extjs.cachefly.net/designer/IO/",
+        "lineEnding": "CRLF",
+        "instantiateStore": true,
+        "genTimestamps": false,
+        "saveOnDeploy": false,
+        "appName": "MyApp",
+        "mapsAPI": "http://maps.google.com/maps/api/js?sensor=true",
+        "cssPath": ""
+    },
+    "xdsVersion": "2.0.0",
+    "xdsBuild": "311",
+    "framework": "touch20",
+    "topInstanceFileMap": {
+        "f05a872d-9e7c-4664-8e29-10e032b11b38": {
+            "paths": [
+                "metadata/view/Main",
+                "app/view/override/Main.js",
+                "app/view/Main.js"
+            ],
+            "className": "Main"
+        },
+        "29e2ae7e-0639-4d8a-bc5b-4ee0d488d025": {
+            "paths": [
+                "metadata/store/MyStore",
+                "app/store/override/MyStore.js",
+                "app/store/MyStore.js"
+            ],
+            "className": "MyStore"
+        },
+        "f3a64d2f-24b9-4d84-8f01-a284f4f62ce4": {
+            "paths": [
+                "metadata/controller/Main",
+                "app/controller/override/Main.js",
+                "app/controller/Main.js"
+            ],
+            "className": "Main"
+        },
+        "8fb5b677-6d96-4a12-8068-8a629c78b1a4": {
+            "paths": [
+                "metadata/model/Main",
+                "app/model/override/Main.js",
+                "app/model/Main.js"
+            ],
+            "className": "Main"
+        },
+        "cfc06e37-ab2a-45ce-aa5a-80dc019d6360": {
+            "paths": [
+                "metadata/view/MyPanel",
+                "app/view/override/MyPanel.js",
+                "app/view/MyPanel.js"
+            ],
+            "className": "MyPanel"
+        }
+    },
+    "expandedState": {
+        "data": true,
+        "model": true,
+        "component": true,
+        "controller": true
+    }
+}

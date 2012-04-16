@@ -1,0 +1,75 @@
+{
+	"data"	: [
+		{
+			"idx"		: 1000001,
+			"pid"		: 1000001,
+			"title"		: "광고1",
+			"content"	: "광고1입니다.",
+			"registant"	: "공인중개사",
+			"name"		: "홍길동",
+			"phone"		: "02-0000-0000",
+			"handphone"	: "",
+			"email"		: "",
+			"image"		: "data/images/1331534231_1.jpg",
+			"regdate"	: "2012-01-01",
+			"order"		: 5,
+			"open"		: "Y"	
+		},{
+			"idx"		: 1000002,
+			"pid"		: 1000002,
+			"title"		: "광고1",
+			"content"	: "광고1입니다.",
+			"registant"	: "공인중개사",
+			"name"		: "홍길동",
+			"phone"		: "02-0000-0000",
+			"handphone"	: "",
+			"email"		: "",
+			"image"		: "data/images/1331534231_2.jpg",
+			"regdate"	: "2012-01-01",
+			"order"		: 5,
+			"open"		: "Y"	
+		},{
+			"idx"		: 1000003,
+			"pid"		: 1000003,
+			"title"		: "광고1",
+			"content"	: "광고1입니다.",
+			"registant"	: "공인중개사",
+			"name"		: "홍길동",
+			"phone"		: "02-0000-0000",
+			"handphone"	: "",
+			"email"		: "",
+			"image"		: "data/images/1331534231_3.jpg",
+			"regdate"	: "2012-01-01",
+			"order"		: 5,
+			"open"		: "Y"	
+		},{
+			"idx"		: 1000004,
+			"pid"		: 1000004,
+			"title"		: "광고1",
+			"content"	: "광고1입니다.",
+			"registant"	: "공인중개사",
+			"name"		: "홍길동",
+			"phone"		: "02-0000-0000",
+			"handphone"	: "",
+			"email"		: "",
+			"image"		: "data/images/1331534231_4.jpg",
+			"regdate"	: "2012-01-01",
+			"order"		: 5,
+			"open"		: "Y"	
+		},{
+			"idx"		: 1000005,
+			"pid"		: 1000005,
+			"title"		: "광고1",
+			"content"	: "광고1입니다.",
+			"registant"	: "공인중개사",
+			"name"		: "홍길동",
+			"phone"		: "02-0000-0000",
+			"handphone"	: "",
+			"email"		: "",
+			"image"		: "data/images/1331534231_5.jpg",
+			"regdate"	: "2012-01-01",
+			"order"		: 5,
+			"open"		: "Y"	
+		}
+	]
+}

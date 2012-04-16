@@ -1,0 +1,18 @@
+{
+    "id": "ExtBox1-ext-gen6443",
+    "type": "store",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "model": "Main",
+        "storeId": "MyStore",
+        "designer|userClassName": "MyStore"
+    },
+    "customConfigs": [],
+    "designerId": "29e2ae7e-0639-4d8a-bc5b-4ee0d488d025",
+    "$viewOrder": 0,
+    "expanded": true
+}

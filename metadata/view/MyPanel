@@ -1,0 +1,16 @@
+{
+    "id": "ExtBox1-ext-gen7791",
+    "type": "panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyPanel"
+    },
+    "customConfigs": [],
+    "designerId": "cfc06e37-ab2a-45ce-aa5a-80dc019d6360",
+    "$viewOrder": 1,
+    "expanded": true
+}
